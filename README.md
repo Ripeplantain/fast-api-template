@@ -14,6 +14,7 @@ This project is a template for creating backend applications using Python and th
 ├── setup.sh                   # Script to set up PostgreSQL and Web API using Docker Compose
 ├── destroy.sh                 # Script to tear down Docker Compose setup
 ├── test_users_service.py      # Unit tests for users service
+├── .README.md                 # A Readme file with instructions on using the template
 ├── src/                       # Source code directory
 │   ├── services/              # Business logic and service classes
 │   ├── controllers/           # API controllers for routing and handling requests
