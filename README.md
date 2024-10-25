@@ -34,6 +34,7 @@ This project is a template for creating backend applications using Python and th
 * Docker
 * Docker Compose
 * Python 3.12
+* Postgresql 16
 * pip
 * python3 -m venv
 
