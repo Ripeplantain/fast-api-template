@@ -3,6 +3,11 @@ This project is a template for creating backend applications using Python and th
 
 ### Project Structure
 ```sh
+├── .vscode/                   # VS Code-specific settings for the workspace
+│   ├── settings.json          # Workspace-specific editor and extension settings
+│   ├── launch.json            # Debugging configurations for the project
+│   ├── tasks.json             # Custom tasks for running scripts or tests
+│   └── extensions.json        # Recommended extensions for VS Code
 ├── .dockerignore              # Docker ignore file to exclude files from Docker builds
 ├── .gitignore                 # Git ignore file to exclude files from version control
 ├── Dockerfile                 # Dockerfile to build the project image
