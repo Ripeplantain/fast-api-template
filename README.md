@@ -42,6 +42,7 @@ This project is a template for creating backend applications using Python and th
 ```sh
 ./setup.sh
 ```
+Access the API: Once the containers are up, the API should be accessible at http://localhost:8000
 
 3. To stop and remove the containers, run:
 
