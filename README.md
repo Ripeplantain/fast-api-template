@@ -11,6 +11,7 @@ This project is a template for creating backend applications using Python and th
 ├── .dockerignore              # Docker ignore file to exclude files from Docker builds
 ├── .gitignore                 # Git ignore file to exclude files from version control
 ├── Dockerfile                 # Dockerfile to build the project image
+├── diagrams                   # Draw.io diagras directory
 ├── docker-compose.yml         # Docker Compose configuration for the entire stack
 ├── docker-compose.debug.yml   # Docker Compose configuration for debugging purposes
 ├── init-data.sql              # SQL script for creating tables and initial data
@@ -30,13 +31,21 @@ This project is a template for creating backend applications using Python and th
 │       └── write/             # DTOs for writing operations
 ```
 
-### Prerequisites
+### System Pre-requisites
 * Docker
 * Docker Compose
 * Python 3.12
 * Postgresql 16
 * pip
 * python3 -m venv
+
+### Vscode Pre-requesite
+* Pylint
+* Python
+* Docker
+* Azure Tools for Visual Studio Code
+* Azure Container Apps
+* AWS Toolkit
 
 ### Installation
 1. Clone the repository
